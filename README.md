@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Brijesh Bumrela
 
 - 🔭 I’m currently working as Full stack developer
 - 🌱 I’m currently learning Kubernetes
